@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+GitHub+Profile;I'm+Rohan+Pramanik+💻;Frontend+Developer+%7C+UI+Enthusiast+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=👋+Welcome+to+my+GitHub+Profile🚀;I'm+Rohan+Pramanik+💻;Frontend+Developer+%7C+UI+Enthusiast+%7C+Tech+Explorer" alt="Typing SVG" />
 </div>
+
+<br>
+
 
 
 # 👋 Hi there!! I'm **Rohan Pramanik**  
