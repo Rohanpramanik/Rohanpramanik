@@ -1,3 +1,9 @@
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="8">
+    <h3>👋 Welcome to my GitHub profile — Rohan Pramanik 🚀</h3>
+  </marquee>
+</div>
+
 # 👋 Hi there!! I'm **Rohan Pramanik**  
 ### 💻 Frontend Developer | UI Enthusiast | Tech Explorer
 
