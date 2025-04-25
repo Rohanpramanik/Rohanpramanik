@@ -5,7 +5,7 @@
 A passionate **Frontend** developer who loves building cool stuff!
 
 ## 🚀 Skills
-- JavaScript, Python, C++
+- JavaScript, Java
 - React, Node.js, Flask
 
 ## 📫 Connect with me
