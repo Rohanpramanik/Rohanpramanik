@@ -2,7 +2,7 @@
 
 **I'm Rohan**
 
-I'm a passionate **Frontend** developer who loves building cool stuff!
+A passionate **Frontend** developer who loves building cool stuff!
 
 ## 🚀 Skills
 - JavaScript, Python, C++
