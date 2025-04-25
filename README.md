@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**Rohanpramanik/Rohanpramanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +7,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there! 👋 
+
+**I'm Rohan**
+
+I'm a passionate developer who loves building cool stuff!
+
+## 🚀 Skills
+- JavaScript, Python, C++
+- React, Node.js, Flask
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/rohan-pramanik/)
+
