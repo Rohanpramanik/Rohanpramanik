@@ -7,7 +7,7 @@
 
 
 # 👋 Hi there!! I'm **Rohan Pramanik**  
-### 💻 Frontend Developer | UI Enthusiast | Tech Explorer
+### 💻 Frontend Engineer | UI Enthusiast | Tech Explorer
 
 ---
 
